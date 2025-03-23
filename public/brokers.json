@@ -1,0 +1,170 @@
+[
+  {
+    "id": "spokeo",
+    "name": "Spokeo",
+    "baseUrl": "https://www.spokeo.com",
+    "optOutUrl": "https://www.spokeo.com/opt_out/new",
+    "instructions": "Search for your name, select your listing, and follow their opt-out process."
+  },
+  {
+    "id": "intelius",
+    "name": "Intelius",
+    "baseUrl": "https://www.intelius.com",
+    "optOutUrl": "https://www.intelius.com/opt-out/submit/",
+    "instructions": "Submit the opt-out form provided at the URL."
+  },
+  {
+    "id": "beenverified",
+    "name": "BeenVerified",
+    "baseUrl": "https://www.beenverified.com",
+    "optOutUrl": "https://www.beenverified.com/faq/opt-out/",
+    "instructions": "Use their opt-out tool to remove your listing."
+  },
+  {
+    "id": "peoplefinders",
+    "name": "PeopleFinders",
+    "baseUrl": "https://www.peoplefinders.com",
+    "optOutUrl": "https://www.peoplefinders.com/manage/",
+    "instructions": "Search your name and follow the form to remove your information."
+  },
+  {
+    "id": "truthfinder",
+    "name": "TruthFinder",
+    "baseUrl": "https://www.truthfinder.com",
+    "optOutUrl": "https://www.truthfinder.com/opt-out/",
+    "instructions": "Submit the opt-out request via their website."
+  },
+  {
+    "id": "mylife",
+    "name": "MyLife",
+    "baseUrl": "https://www.mylife.com",
+    "optOutUrl": "https://www.mylife.com/privacycontrol",
+    "instructions": "Search your name and complete the privacy control form."
+  },
+  {
+    "id": "radaris",
+    "name": "Radaris",
+    "baseUrl": "https://www.radaris.com",
+    "optOutUrl": "https://radaris.com/control/privacy",
+    "instructions": "Search and remove your profile via the opt-out form."
+  },
+  {
+    "id": "whitepages",
+    "name": "Whitepages",
+    "baseUrl": "https://www.whitepages.com",
+    "optOutUrl": "https://www.whitepages.com/suppression-requests",
+    "instructions": "Request suppression of your data using the link."
+  },
+  {
+    "id": "peoplesmart",
+    "name": "PeopleSmart",
+    "baseUrl": "https://www.peoplesmart.com",
+    "optOutUrl": "https://www.peoplesmart.com/optout",
+    "instructions": "Search and use the opt-out form provided."
+  },
+  {
+    "id": "fastpeoplesearch",
+    "name": "FastPeopleSearch",
+    "baseUrl": "https://www.fastpeoplesearch.com",
+    "optOutUrl": "https://www.fastpeoplesearch.com/removal",
+    "instructions": "Use their removal form after finding your profile."
+  },
+  {
+    "id": "ussearch",
+    "name": "US Search",
+    "baseUrl": "https://www.ussearch.com",
+    "optOutUrl": "https://www.ussearch.com/opt-out/",
+    "instructions": "Use the opt-out page to submit your info for removal."
+  },
+  {
+    "id": "peekyou",
+    "name": "PeekYou",
+    "baseUrl": "https://www.peekyou.com",
+    "optOutUrl": "https://www.peekyou.com/about/contact/optout/index.php",
+    "instructions": "Contact them via their opt-out form to request removal."
+  },
+  {
+    "id": "nuwber",
+    "name": "Nuwber",
+    "baseUrl": "https://www.nuwber.com",
+    "optOutUrl": "https://nuwber.com/removal/link",
+    "instructions": "Search your name and use the link-based removal system."
+  },
+  {
+    "id": "zabasearch",
+    "name": "ZabaSearch",
+    "baseUrl": "https://www.zabasearch.com",
+    "optOutUrl": "https://www.zabasearch.com/block_records/",
+    "instructions": "Use their block record page to hide your listing."
+  },
+  {
+    "id": "anywho",
+    "name": "AnyWho",
+    "baseUrl": "https://www.anywho.com",
+    "optOutUrl": "https://www.intelius.com/opt-out/submit/",
+    "instructions": "Handled through Intelius's opt-out form."
+  },
+  {
+    "id": "instantcheckmate",
+    "name": "InstantCheckmate",
+    "baseUrl": "https://www.instantcheckmate.com",
+    "optOutUrl": "https://www.instantcheckmate.com/opt-out/",
+    "instructions": "Submit a removal request through their opt-out portal."
+  },
+  {
+    "id": "publicdata",
+    "name": "PublicData",
+    "baseUrl": "https://www.publicdata.com",
+    "optOutUrl": "https://www.publicdata.com/",
+    "instructions": "Contact them directly through their website to request removal."
+  },
+  {
+    "id": "addresses",
+    "name": "Addresses.com",
+    "baseUrl": "https://www.addresses.com",
+    "optOutUrl": "https://www.intelius.com/opt-out/submit/",
+    "instructions": "Opt-out requests go through Intelius’s form."
+  },
+  {
+    "id": "yellowpages",
+    "name": "YellowPages",
+    "baseUrl": "https://www.yellowpages.com",
+    "optOutUrl": "https://www.yellowpagesoptout.com/",
+    "instructions": "Create an account and remove your listing manually."
+  },
+  {
+    "id": "truepeoplesearch",
+    "name": "TruePeopleSearch",
+    "baseUrl": "https://www.truepeoplesearch.com",
+    "optOutUrl": "https://www.truepeoplesearch.com/removal",
+    "instructions": "Use the opt-out form on their website after finding your listing."
+  },
+  {
+    "id": "datayards",
+    "name": "DataYards",
+    "baseUrl": "https://www.datayards.com",
+    "optOutUrl": "https://www.datayards.com/contact/",
+    "instructions": "Request a manual removal by contacting support."
+  },
+  {
+    "id": "publicrecordsnow",
+    "name": "PublicRecordsNow",
+    "baseUrl": "https://www.publicrecordsnow.com",
+    "optOutUrl": "https://www.intelius.com/opt-out/submit/",
+    "instructions": "Opt out via Intelius’s shared platform."
+  },
+  {
+    "id": "usa-people-search",
+    "name": "USA People Search",
+    "baseUrl": "https://www.usa-people-search.com",
+    "optOutUrl": "https://www.usa-people-search.com/opt-out/submit/",
+    "instructions": "Find your name and submit a request for removal."
+  },
+  {
+    "id": "emailfinder",
+    "name": "EmailFinder",
+    "baseUrl": "https://www.emailfinder.com",
+    "optOutUrl": "https://www.emailfinder.com/optout",
+    "instructions": "Search your name and follow the steps to opt out."
+  }
+]
